@@ -1,0 +1,1 @@
+# medical-photos-storage
